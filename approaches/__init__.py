@@ -1,0 +1,2 @@
+from approaches.sieve_of_eratosthenes import sieve_of_eratosthenes
+from approaches.simple_loop_iterations import get_prime_numbers_by_root, get_prime_numbers_naively
