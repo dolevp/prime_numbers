@@ -9,4 +9,4 @@ Approaches:
 * Square root (which is a bit of an optimization to the Naive approach)
 * Sieve of eratosthenes
 
-######_Note: both the Naive approach and its extension are using a bit of an optimization, skipping all even numbers (except for 2 which is prime)_
+_Note: both the Naive approach and its extension are using a bit of an optimization, skipping all even numbers (except for 2 which is prime)_
